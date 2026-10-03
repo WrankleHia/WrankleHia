@@ -50,7 +50,7 @@
 
 ---
 
-## Tech Stack
+## 技术栈
 
 ### Languages
 
