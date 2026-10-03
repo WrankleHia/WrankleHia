@@ -30,7 +30,7 @@
 
 我的性格比较内向，不过遇到共同感兴趣的话题时，我也会变得很健谈。:)
 
-有收集银行卡和收藏中古相机、游戏机、电脑的爱好，最喜欢的中古电脑是 Commodore Amiga 500(1987)
+有收集银行卡和收藏中古相机、游戏机、电脑的爱好，最喜欢的中古电脑是 **Commodore Amiga 500 (1987)**
 
 <p align="center">
   <img src="./pics/amiga.jpeg" width="500" alt="My Commodore Amiga 500">
@@ -40,7 +40,7 @@
 图为 Amiga 500 电脑上网浏览 BBS
 </p>
 
-> Amiga 500 平台上诞生了一些如今我们熟知的软件和工具，比如Traces(Blender前身）、FastRay(Cinema 4D前身)和vim
+> Amiga 500 平台上诞生了一些如今我们熟知的软件和工具，比如**Traces**(Blender前身）、**FastRay**(Cinema 4D前身)和**Vim**
 
 或者研究早期科技，比如窄带拨号上网等等
 
