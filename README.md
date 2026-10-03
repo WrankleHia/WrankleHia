@@ -30,7 +30,7 @@
 
 我的性格比较内向，不过遇到共同感兴趣的话题时，我也会变得很健谈。:)
 
-有收集银行卡和收藏中古相机、游戏机、电脑的癖好，最喜欢的中古电脑是 Commodore Amiga 500(1987)
+有收集银行卡和收藏中古相机、游戏机、电脑的爱好，最喜欢的中古电脑是 Commodore Amiga 500(1987)
 
 <p align="center">
   <img src="./pics/amiga.jpeg" width="500" alt="My Commodore Amiga 500">
