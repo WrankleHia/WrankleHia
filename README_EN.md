@@ -19,7 +19,7 @@
 
 🎓 I'm currently an undergraduate student in China, studying in a computer-related field.
 
-🇮🇹 Planning to move to **Italy next year to pursue my Master's degree**.
+🇮🇹 Heading to the **University of Trento in 2027 to pursue my Master's degree**.
 
 🎂 **Age:** 20  
 🎉 **Birthday:** November 20, 2005  
