@@ -33,7 +33,7 @@ I enjoy collecting bank cards, vintage cameras, game consoles, and computers.
 My favorite vintage computer is the **Commodore Amiga 500 (1987)**.
 
 <p align="center">
-  <img src="./pics/amiga.jpeg" width="500" alt="My Commodore Amiga 500">
+  <img src="./pics/amiga.jpeg" height="300" alt="My Commodore Amiga 500">
 </p>
 
 <p align="center">
@@ -65,10 +65,10 @@ I'll gradually share more of my projects and other interesting things here.
   </tr>
   <tr>
     <td align="center">
-      <img src="./pics/Aru(Live 2D).png" height="500" alt="Aru Live2D">
+      <img src="./pics/Aru(Live 2D).png" height="300" alt="Aru Live2D">
     </td>
     <td align="center">
-      <img src="./pics/Aru(3D).png" height="500" alt="Aru 3D">
+      <img src="./pics/Aru(3D).png" height="300" alt="Aru 3D">
     </td>
   </tr>
 </table>
