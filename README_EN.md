@@ -34,6 +34,18 @@ I enjoy collecting bank cards, vintage cameras, game consoles, and computers.
 
 My favorite vintage computer is the Commodore Amiga 500 (1987).
 
+My favorite vintage computer is the **Commodore Amiga 500 (1987)**.
+
+<p align="center">
+  <img src="./pics/amiga.jpeg" width="500" alt="My Commodore Amiga 500">
+</p>
+
+<p align="center">
+  <sub>My Amiga 500 browsing a BBS online.</sub>
+</p>
+
+> The Amiga 500 platform was home to the early development of several pieces of software and tools that are still familiar to us today, including **Traces** ( predecessor to Blender), **FastRay** (predecessor to Cinema 4D), and **Vim**.
+
 I'm also fascinated by early consumer technology and enjoy exploring how older technologies worked, such as dial-up Internet and other technologies from the early days of personal computing and the Internet.
 
 There aren't many public repositories on my GitHub yet, as some of my projects are still under development or haven't been uploaded.
