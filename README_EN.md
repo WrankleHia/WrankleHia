@@ -24,7 +24,7 @@
 🎂 **Age:** 20  
 🎉 **Birthday:** November 20, 2005<br>
 🔢 **Height/Weight:** 184 cm / 79 kg<br>
-🌏 **Languages:** Chinese / English / Korean (a little)<br>
+🌏 **Languages:** Chinese / English / Korean (learning)<br>
 🏆 **Achievements:** 3 provincial-level awards and several university-level awards<br>
 🗺️ **Countries/Regions Visited:** 🇨🇳🇭🇰🇲🇴🇰🇷🇯🇵🇻🇳🇹🇭🇲🇾🇸🇬
 
