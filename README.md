@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-**WrankleHia(Aru)的形象(Live 2D)**
+**WrankleHia(Aru)的虚拟形象(2D)**
 </p>
 
 <p align="center">
