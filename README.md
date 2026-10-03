@@ -51,11 +51,11 @@
 ---
 
 <p align="center">
-WrankleHia(Aru)的形象
+**WrankleHia(Aru)的形象(Live 2D)**
 </p>
 
 <p align="center">
-  <img src="./pics/Aru(Live 2D).png" width="500" alt="Aru(Live 2D)">
+  <img src="./pics/Aru(Live 2D).png" height="500" alt="Aru(Live 2D)">
 </p>
 
 ---
