@@ -40,7 +40,7 @@
 图为 Amiga 500 电脑上网浏览 BBS
 </p>
 
-> Amiga 500平台上诞生了如今我们熟知的软件和工具，比如Traces(Blender前身）、FastRay(Cinema 4D前身)和vim
+> Amiga 500 平台上诞生了一些如今我们熟知的软件和工具，比如Traces(Blender前身）、FastRay(Cinema 4D前身)和vim
 
 或者研究早期科技，比如窄带拨号上网等等
 
