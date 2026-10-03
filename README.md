@@ -110,7 +110,7 @@ WrankleHia(Aru)的虚拟形象
 ```
 
 
-## 联系我
+## 联系方式
 
 <p>
   <a href="mailto:aru@wranklehia.cn">
