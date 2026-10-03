@@ -31,7 +31,7 @@
 有收集银行卡和收藏中古相机、游戏机、电脑的爱好，最喜欢的中古电脑是 **Commodore Amiga 500 (1987)**
 
 <p align="center">
-  <img src="./pics/amiga.jpeg" width="500" alt="My Commodore Amiga 500">
+  <img src="./pics/amiga.jpeg" height="300" alt="My Commodore Amiga 500">
 </p>
 
 <p align="center">
