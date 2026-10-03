@@ -30,6 +30,12 @@
 
 I'm a relatively introverted person, but I can become quite talkative when we share the same interests. :)
 
+I enjoy collecting bank cards, vintage cameras, game consoles, and computers.
+
+My favorite vintage computer is the Commodore Amiga 500 (1987).
+
+I'm also fascinated by early consumer technology and enjoy exploring how older technologies worked, such as dial-up Internet and other technologies from the early days of personal computing and the Internet.
+
 There aren't many public repositories on my GitHub yet, as some of my projects are still under development or haven't been uploaded.
 
 I'll gradually share more of my projects and other interesting things here.
