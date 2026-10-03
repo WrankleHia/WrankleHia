@@ -99,7 +99,7 @@ I'll gradually share more of my projects and other interesting things here.
 
 ---
 
-## 🚀 Interests
+## Interests
 
 ```text
 💻 Programming & Software Development
@@ -111,7 +111,7 @@ I'll gradually share more of my projects and other interesting things here.
 🔧 Hardware & Embedded Systems
 ```
 
-## 📫 Contact Me
+## Contact Me
 
 <p>
   <a href="mailto:aru@wranklehia.cn">
