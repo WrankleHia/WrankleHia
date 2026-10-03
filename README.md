@@ -50,6 +50,16 @@
 
 ---
 
+<p align="center">
+WrankleHia(Aru)的形象
+</p>
+
+<p align="center">
+  <img src="./pics/Aru(Live 2D).png" width="500" alt="Aru(Live 2D)">
+</p>
+
+---
+
 ## 技术栈
 
 ### Languages
