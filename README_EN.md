@@ -52,6 +52,33 @@ I'll gradually share more of my projects and other interesting things here.
 
 ---
 
+---
+
+<p align="center">
+  WrankleHia (Aru)'s Virtual Avatar
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>2D (Completed in 2021)</b>
+    </td>
+    <td align="center">
+      <b>3D (Completed in 2022)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./pics/Aru(Live 2D).png" height="500" alt="Aru Live2D">
+    </td>
+    <td align="center">
+      <img src="./pics/Aru(3D).png" height="500" alt="Aru 3D">
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Tech Stack
 
 ### Languages
