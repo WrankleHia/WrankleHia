@@ -22,9 +22,11 @@
 🇮🇹 Heading to the **University of Trento in 2027 to pursue my Master's degree**.
 
 🎂 **Age:** 20  
-🎉 **Birthday:** November 20, 2005  
-🌏 **Languages:** Chinese / English / Korean (a little)  
-🏆 **Achievements:** 3 provincial-level awards and several university-level awards
+🎉 **Birthday:** November 20, 2005<br>
+🔢 **Height/Weight:** 184 cm / 79 kg<br>
+🌏 **Languages:** Chinese / English / Korean (a little)<br>
+🏆 **Achievements:** 3 provincial-level awards and several university-level awards<br>
+🗺️ **Countries/Regions Visited:** 🇨🇳🇭🇰🇲🇴🇰🇷🇯🇵🇻🇳🇹🇭🇲🇾🇸🇬
 
 I'm a relatively introverted person, but I can become quite talkative when we share the same interests. :)
 
