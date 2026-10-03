@@ -52,8 +52,6 @@ I'll gradually share more of my projects and other interesting things here.
 
 ---
 
----
-
 <p align="center">
   WrankleHia (Aru)'s Virtual Avatar
 </p>
