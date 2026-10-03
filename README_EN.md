@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## About Me
 
 🎓 I'm currently an undergraduate student in China, studying in a computer-related field.
