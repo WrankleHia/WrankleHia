@@ -32,8 +32,6 @@ I'm a relatively introverted person, but I can become quite talkative when we sh
 
 I enjoy collecting bank cards, vintage cameras, game consoles, and computers.
 
-My favorite vintage computer is the Commodore Amiga 500 (1987).
-
 My favorite vintage computer is the **Commodore Amiga 500 (1987)**.
 
 <p align="center">
