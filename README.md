@@ -63,10 +63,10 @@ WrankleHia(Aru)的虚拟形象
   </tr>
   <tr>
     <td align="center">
-      <img src="./pics/Aru(Live 2D).png" height="500" alt="Aru Live2D">
+      <img src="./pics/Aru(Live 2D).png" height="300" alt="Aru Live2D">
     </td>
     <td align="center">
-      <img src="./pics/Aru(3D).png" height="500" alt="Aru 3D">
+      <img src="./pics/Aru(3D).png" height="300" alt="Aru 3D">
     </td>
   </tr>
 </table>
