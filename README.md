@@ -56,10 +56,10 @@ WrankleHia(Aru)的虚拟形象
 <table align="center">
   <tr>
     <td align="center">
-      <b>2D</b>
+      <b>2D（2021年完成）</b>
     </td>
     <td align="center">
-      <b>3D</b>
+      <b>3D（2022年完成）</b>
     </td>
   </tr>
   <tr>
