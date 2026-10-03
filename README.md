@@ -49,9 +49,9 @@
 未来我会逐渐把更多项目和有趣的东西分享在这里。
 
 ---
-<p align="center">
-**WrankleHia(Aru)的虚拟形象**
-</p>
+<div align="center">
+# WrankleHia(Aru)的虚拟形象
+</div>
 
 <table align="center">
   <tr>
